@@ -36,11 +36,13 @@ public:
          pekerja(pUmur),
          pelajar(pUmur),
          orang(pUmur)
-
-}
+     {
+        cout << "budi dibuat\n" << endl;
+    }
+};
 
 int main() {
     budi a(12);
-
+ 
     return 0;
 }
