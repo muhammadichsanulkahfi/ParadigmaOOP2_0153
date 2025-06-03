@@ -7,7 +7,7 @@ public:
     // virtual void pesan(){
     //     cout<<"Pesan dari seseorang"<<endl;
     // }
-};
+}; 
 
 class joko :public seseorang {
 public:
@@ -33,6 +33,6 @@ int main() {
     obyek = &b;
     obyek->pesan();
     //a.seseorang::pesan();
-    //b.seseorang::pesan();
+    //b.seseorang::pesan();  
     return 0;
 }
