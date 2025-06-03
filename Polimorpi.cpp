@@ -35,4 +35,4 @@ int main() {
     //a.seseorang::pesan();
     //b.seseorang::pesan();  
     return 0;
-}
+}  
